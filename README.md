@@ -18,7 +18,7 @@
 ---
 
 ## Задание 3. Logstash и Nginx
-Скриншот Kibana (Discover), где видны логи Nginx (`GET /final-check`), отправленные через Logstash:
+Скриншот Kibana (Discover), видны логи Nginx (`GET /final-check`), отправленные через Logstash:
 
 ![Задание 3](https://github.com/Alena97dv/elk-homework/blob/main/Задание%203.png)
 
