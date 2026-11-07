@@ -10,7 +10,7 @@
 ---
 
 ## Задание 2. Kibana
-Скриншот Dev Tools в Kibana с запросом `GET /_cluster/health?pretty`:
+Скриншот интерфейса Kibana с запросом `GET /_cluster/health?pretty`:
 
 ![Задание 2](https://github.com/Alena97dv/elk-homework/blob/main/Задание%202.png)
 ![Задание 2](https://github.com/Alena97dv/elk-homework/blob/main/Задание%202%20(2).png)
@@ -26,7 +26,7 @@
 
 ## Задание 4. Filebeat
 Скриншот 1 — терминал с `docker compose ps` (Logstash остановлен, Filebeat работает):
-![Задание 4.1](https://github.com/Alena97dv/elk-homework/blob/main/задание%204(2).pngт)
+![Задание 4.1](https://github.com/Alena97dv/elk-homework/blob/main/задание%204(2).png)
 
 Скриншот 2 — Kibana (Discover), логи Nginx (`GET /ilm-disabled-check`), отправленные напрямую через Filebeat:
 ![Задание 4.2](https://github.com/Alena97dv/elk-homework/blob/main/задание%204.png)
